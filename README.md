@@ -1,16 +1,4 @@
-# home_task_animations
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/TojiddinovMuhammadabdullox/home_task_animations/assets/106306495/c2506c66-0bbc-4c08-8519-fac4c4f4751d
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
